@@ -1,8 +1,8 @@
 First commmit for workshop
-second commmit for workshop
+this is my silly commit
 
 third comment for workshop  
 
 
 
-this chenges are 
+this chenges are made in new-branch
